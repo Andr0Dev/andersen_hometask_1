@@ -1,0 +1,25 @@
+body{
+	background-color: lavender;
+}
+
+h1 {
+	text-align: center;
+	margin-top: 1em;
+	color: black;
+}
+
+h4 {
+	text-align: right;
+	margin-top: 1em;
+	color: black;	
+}
+
+h3{
+	padding-left: 50px;
+	text-decoration: underline;
+}
+
+ol {
+	padding-left: 100px;
+	color: darkred;
+}
